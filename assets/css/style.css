@@ -1,0 +1,42 @@
+body{
+    background-image: linear-gradient(#ffffff 3px, transparent 3px), linear-gradient(to right, #ffffff 3px, transparent 3px);
+background-size: 33px 33px;
+background-color: #000000;
+}
+
+.flag img{
+    width: 100%;
+}
+
+.card{
+    height: 450px;
+}
+.card-body{
+    overflow: hidden;
+}
+h3 , .cname{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 24px;
+    color: orange;
+    margin: 15px 0;
+}
+
+.deatail{
+    text-transform: capitalize;
+    font-size: 18px;
+    color: #747474;
+}
+
+.deatail>p{
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
